@@ -2,7 +2,7 @@
 
 # Tic-Tac-Toe
 
-A Python implementation of Tic-Tac-Toe that checks a completed board for a winner. Designed to work with any square board size — not just the standard 3×3.
+A Python implementation of Tic-Tac-Toe that checks a completed board for a winner. It is designed to work with any square board size — not just the standard 3×3.
 
 Feedback welcome: bdwamena@aimsammi.org
 
