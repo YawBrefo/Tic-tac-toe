@@ -6,7 +6,7 @@ A Python implementation of Tic-Tac-Toe that checks a completed board for a winne
 
 Feedback welcome: bdwamena@aimsammi.org
 
-## How It Works
+## How It Works;
 
 `tic_tac_toe(board)` takes a 2D list representing a filled board and checks four winning conditions:
 
