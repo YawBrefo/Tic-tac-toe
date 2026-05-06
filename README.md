@@ -1,6 +1,6 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-# Tic-Tac-Toe
+# Tic-Tac-Toe game
 
 A Python implementation of Tic-Tac-Toe that checks a completed board for a winner. It is designed to work with any square board size — not just the standard 3×3 matrix board.
 
