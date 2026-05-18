@@ -8,7 +8,7 @@ Feedback welcome: bdwamena@aimsammi.org
 
 ## How It Works:
 
-`tic_tac_toe(board)` takes a 2D list representing a filled board and checks four winning conditions:
+`tic_tac_toe(board)` takes a 2-Dimensional list representing a filled board and checks four winning conditions:
 
 | Condition | Description |
 |---|---|
