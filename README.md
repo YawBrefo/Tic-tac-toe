@@ -34,7 +34,7 @@ The board can be any size — pass an n×n list and the function adapts automati
 
 ## Dependencies
 
-None — pure Python, no external libraries required.
+Only Python, no external libraries required.
 
 ## Planned Improvements
 
