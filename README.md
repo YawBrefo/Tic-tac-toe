@@ -4,7 +4,7 @@
 
 This is a Python implementation of Tic-Tac-Toe board game that checks a completed board for a winner. It is designed to work with any square board size — not just the standard 3×3 matrix board.
 
-Feedback welcome: bdwamena@aimsammi.org
+All feedback welcome: bdwamena@aimsammi.org
 
 ## How It Works:
 
