@@ -6,7 +6,7 @@ This is a Python implementation of Tic-Tac-Toe board game that checks a complete
 
 All feedback welcome: bdwamena@aimsammi.org
 
-## How It Works:
+## How This Works:
 
 `tic_tac_toe(board)` takes a 2-Dimensional list representing a filled board and checks four winning conditions:
 
